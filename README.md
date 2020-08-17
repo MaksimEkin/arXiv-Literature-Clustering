@@ -3,6 +3,7 @@ Clustering of the 600,000 random subset of 1,747,307 literature hosted on [arXiv
 
 ![](plots/arXiv.png)
 
+Dataset: [arXiv Dataset | Kaggle](https://www.kaggle.com/Cornell-University/arxiv)
 
 ## How to Cite This Work?
 If you use arXiv Literature Clustering, please cite the original paper and the code:
