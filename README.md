@@ -17,6 +17,6 @@ If you use arXiv Literature Clustering, please cite the original paper and the c
 	note={Malware Research Group, University of Maryland Baltimore County. \url{https://github.com/MaksimEkin/COVID19-Literature-Clustering}},
 	url = {TBA},
     	doi = {10.1145/3395027.3419591},
-    	howpublished = {ACM Symposium on Document Engineering 2020 (DocEng '20), September 29-October 2, 2020, Virtual Event, CA, USA}
+    	howpublished = {ACM Symposium on Document Engineering 2020 (DocEng '20), Virtual Event, CA, USA}
 }
 ```
