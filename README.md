@@ -12,11 +12,11 @@ If you use arXiv Literature Clustering, please cite the original paper and the c
 	author = {Eren, E. Maksim. Solovyev, Nick. Nicholas, Charles. Raff, Edward. Johnson, Ben},
 	title = {COVID-19 Kaggle Literature Organization},
 	year = {2020},
-	month = {April},
+	month = {September},
 	location = {San Jose, CA, USA},
 	note={Malware Research Group, University of Maryland Baltimore County. \url{https://github.com/MaksimEkin/COVID19-Literature-Clustering}},
 	url = {TBA},
-    doi = {TBA},
-    howpublished = {DocEng'20: ACM Symposium on Document Engineering}
+    	doi = {10.1145/3395027.3419591},
+    	howpublished = {ACM Symposium on Document Engineering 2020 (DocEng '20), September 29-October 2, 2020, Virtual Event, CA, USA}
 }
 ```
